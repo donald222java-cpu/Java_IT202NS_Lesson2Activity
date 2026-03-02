@@ -1,0 +1,10 @@
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.csproj.AssemblyReference.cache
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.Form1.resources
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.Properties.Resources.resources
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.csproj.GenerateResource.cache
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.csproj.CoreCompileInputs.cache
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\bin\Debug\Java_IT202NS_Lesson2Activity.exe.config
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\bin\Debug\Java_IT202NS_Lesson2Activity.exe
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\bin\Debug\Java_IT202NS_Lesson2Activity.pdb
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.exe
+C:\Users\Donaldjava\Videos\JAVA_C#\Java_IT202NS_Lesson2Activity\Java_IT202NS_Lesson2Activity\obj\Debug\Java_IT202NS_Lesson2Activity.pdb
